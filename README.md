@@ -1,1 +1,1 @@
-# foundational-concepts-in-cybersecurity-cybersecurity Homework 2
+# Homework 2: foundational-concepts-in-cybersecurity
