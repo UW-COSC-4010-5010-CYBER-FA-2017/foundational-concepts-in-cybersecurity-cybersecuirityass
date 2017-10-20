@@ -1,4 +1,4 @@
-# Homework 2: foundational-concepts-in-cybersecurity
+# Homework 2: 10 Foundational-Concepts-in-Cybersecurity
 # 1 Domain separation :
 Separating areas where resources are located prevents accidents and loss of data, keeping information worlds from colliding.
 # 2 Process isolation:
