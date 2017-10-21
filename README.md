@@ -1,6 +1,6 @@
 # Homework 2: 10 Foundational-Concepts-in-Cybersecurity
 # 1 Domain Separation :
-Separating areas where resources are located prevents accidents and loss of data, keeping information worlds from colliding.
+Separating areas where resources are located prevents accidents and loss of data, keeping information from colliding.
 # 2 Process Isolation:
 A process occurs when a task is executed. Keeping processes separate prevents the failure of one process from negatively impacting another.
 # 3 Resource Encapsulation:
