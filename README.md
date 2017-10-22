@@ -12,7 +12,7 @@ Dividing a program into separated sub-programs. Modules can be added or replaced
 # 6 Layering:
 Layering is a good way of protecting information. In a multiple layer system, if one layer is defeated, the next layer should catch it.
 # 7 Abstraction:
-Summarizing or explaining in a way that can be easily understood by everyone.
+Exposing only important things to the user and hides the internal details.
 # 8 Data Hiding:
 Prevent people from being able to see information.
 # 9 Simplicity:
