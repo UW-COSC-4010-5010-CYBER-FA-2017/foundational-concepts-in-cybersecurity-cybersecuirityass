@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Homework 2: foundational-concepts-in-cybersecurity
-Domain separation: Separating areas where resources are located prevents accidents and loss of data, keeping information worlds from colliding.
-=======
 # Homework 2: 10 Foundational-Concepts-in-Cybersecurity
 # 1 Domain Separation :
 Separating areas where resources are located prevents accidents and loss of data, keeping information from colliding.
@@ -23,8 +19,3 @@ Prevent people from being able to see information.
 If something is less complicated, it's less likely to have problems and easier to troubleshoot and fix.
 # 10 Minimization:
 Simplify and decrease the number of ways the software can be exploited.
-
-
-
->>>>>>> ae09568e31e3d43453af21d45c443312e361071a
-
