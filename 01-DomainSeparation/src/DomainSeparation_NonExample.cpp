@@ -70,7 +70,7 @@ void adminOnly()
         user.deposit();
 	}
   else {
-        cout<< "Invalid username "<< endl;
+        cout<< "Invalid choice "<< endl;
     }
 }
 };
@@ -82,13 +82,15 @@ void Customer:: info(){
     cout << "Enter user login info: " << endl;
     cin >> username;
     if(username =="firstuser") {
-   cout << " \n NB: You can only transfer money with this account: " << endl;
+   cout << " \n You can transfer and deposit with this account: " << endl;
    detl = user.transfermoney();
+    user.deposit();
    }
     else if(username =="seconduser")
     {
-        cout << " NB: You can only deposit with this account: " << endl;
-       user.deposit();
+        cout << " \n You can transfer and deposit with this account: " << endl;
+    detl = user.transfermoney();
+    user.deposit();
 
 	}
   else {
@@ -104,7 +106,7 @@ int main()
     Customer cum;
     cum.info();
     cum.admin_p = &obj;
-    cum.admin_p->AccDetails();
+    cum.admin_p->adminOnly();
 
 }
 
