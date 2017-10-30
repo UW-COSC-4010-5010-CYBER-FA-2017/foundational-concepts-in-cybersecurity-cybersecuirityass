@@ -10,3 +10,5 @@ In this bad example, by defining a pointer admin_p of class admin in the custome
 
 ![domainseparation](https://user-images.githubusercontent.com/31521112/32199262-653ad278-bd91-11e7-9782-839b34a38fe4.gif)
 
+Source:
+https://www.google.com/search?q=domain+separation&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiJyOvFvZnXAhUL74MKHdUjBQYQ_AUICigB&biw=1680&bih=910#imgrc=PYMr4ntYax8HJM:
