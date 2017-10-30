@@ -22,3 +22,6 @@ The same operation was performed using different appraoch called the Tayler seri
 
 
 ![simplicity](https://user-images.githubusercontent.com/31521112/32199962-befeca50-bd94-11e7-8143-8bf0d733de54.PNG)
+
+Source:
+https://www.google.com/search?q=displacement+vs+distance&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjv4JDnv5nXAhUq5oMKHZcaC8oQ_AUICigB&biw=1680&bih=910#imgrc=XjSEe2SBeNHHHM:
