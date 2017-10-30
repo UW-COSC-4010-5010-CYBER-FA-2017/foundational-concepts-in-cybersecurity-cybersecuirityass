@@ -1,6 +1,6 @@
 /*  Berhane Tsegay
 Cyber Security
-Resource Encapsulation Non Examplar
+Abstraction Non Examplar
 */
 #include<iostream>
 #include<string>
