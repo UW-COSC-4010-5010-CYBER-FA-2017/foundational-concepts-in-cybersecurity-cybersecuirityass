@@ -25,6 +25,15 @@ float getInput()
 float input;
 cout << "Enter Temperature in Degree Fahrenheit" << endl;
 cin >> input;
+// For validity of input
+//Invalid input don't crash the program give him second chance
+    while (!cin) {
+        cout << "\n ERROR, Invalid Input !! Please Enter valid Temperature" << endl;
+        cin.clear();
+        cin.ignore(256,'\n');
+        cin >> input;
+    }
+
 return input;
 }
 
