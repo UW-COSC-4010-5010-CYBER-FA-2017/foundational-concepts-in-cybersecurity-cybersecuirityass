@@ -1,18 +1,20 @@
 
+Abstraction is the concept of exposing only the required essential characteristics and behavior with respect to a context. It provides a good security to data from anauthorized access.
+
+### Abstraction_Example:
+This is good example of abstraction. Transfer money function in the customer class is set to private, so it is inaccessible from the outside world (i.e. from other classes). Even the Admin can't access this function. Therefore, it is well hidden.
+
+
+### Abstraction_NonExample:
+This is a bad example of abstraction. Because nothing is hidden, all the data is available to every user including the transfermoney function which was private before is now public.
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+### Picture Description:
+Abstraction shows only important things to the user and hides the internal details as it is shown in the picture below.
 ![abstraction](https://user-images.githubusercontent.com/31521112/32199740-8b4f5798-bd93-11e7-9223-be2c12d61b03.png)
 
 Source:

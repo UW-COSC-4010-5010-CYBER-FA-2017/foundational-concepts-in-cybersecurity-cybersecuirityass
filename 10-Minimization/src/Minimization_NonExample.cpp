@@ -1,4 +1,5 @@
 
+
 /* Berhane Tsegay
 Cyber Security
 Minimization bad Example
@@ -16,7 +17,7 @@ int main()
 
    int precision;     //The the highest order of polynomial for precision.
    float x;             //variable to find ln of it using Tayler series.
-   float logx =0.0, lnx= 0.0;
+   float logx =0.0;
    //======User Input=====
    cout << "Enter the order of Precision:" << endl;
    cin >> precision;
@@ -44,7 +45,7 @@ float ComputelogXcomplex(float x,int precision)
 {
 
  float logX;
-	float Diff=0.0;;
+	float Diff=0.0;
 	float OneRaisedToN;
 	float Temp;
    OneRaisedToN = 1.0;
