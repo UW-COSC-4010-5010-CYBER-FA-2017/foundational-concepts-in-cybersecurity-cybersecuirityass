@@ -2,7 +2,9 @@
 
 ## DataHiding_NonExample:
 
-    This is a good example of data hiding because some of the information are unavailable to the other classes. In this example the function transfer money is set to private which is inaccessible from the outside world. This is a good practice of preventing hackers from exploiting the program.
+    This is a good example of data hiding because some of the information are unavailable to the other classes.
+    In this example the function transfer money is set to private which is inaccessible from the outside world. 
+    This is a good practice of preventing hackers from exploiting the program.
     
   
     class Customer
