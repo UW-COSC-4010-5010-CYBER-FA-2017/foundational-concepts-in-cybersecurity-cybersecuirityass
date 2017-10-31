@@ -32,6 +32,21 @@
     Being able to see all information allows a potential hacker to have a starting point
     to find an exploit.
 
+ class Customer
+{
+	public:
+  
+	    float balance;
+      
+		void deposit();
+    
+		void info();
+		
+           values transfermoney();
+	private:
+  
+       
+};
 
 
 
