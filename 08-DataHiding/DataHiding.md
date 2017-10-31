@@ -9,7 +9,8 @@
   
     class Customer
 {
-	public:
+
+    public:
   
 	    float balance;
       
@@ -34,7 +35,8 @@
 
  class Customer
 {
-	public:
+
+    public:
   
 	    float balance;
       
