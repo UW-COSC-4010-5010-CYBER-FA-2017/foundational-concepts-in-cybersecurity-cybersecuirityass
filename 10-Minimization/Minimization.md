@@ -19,4 +19,4 @@
 
 
 source: 
-https://www.google.com/search?q=partitioning&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjJwO25vJnXAhVkw4MKHTODAU0Q_AUICigB&biw=1680&bih=910#imgrc=o6LfxEjGb8haaM:
+https://www.google.com/search?q=minimization&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj4rJDhlZrXAhUl4YMKHTVlDekQ_AUICigB&biw=1680&bih=910#imgrc=4LQ_JpaZ8f659M:
