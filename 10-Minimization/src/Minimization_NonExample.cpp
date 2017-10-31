@@ -44,7 +44,7 @@ float ComputelogXcomplex(float x,int precision)
 {
 
  float logX;
-	float Diff=0.0;;
+	float Diff=0.0;
 	float OneRaisedToN;
 	float Temp;
    OneRaisedToN = 1.0;
