@@ -1,7 +1,7 @@
 
 /*Berhane Tsegay
 Cybersecurity
-Modularity Bad Example
+ProcessIsolation Bad Example
 */
 #include <iostream>
 #include <conio.h>
@@ -19,5 +19,3 @@ c = (f-32.0)*(5.0/9.0);
 cout << "The Temperature in Celsius is: " << c << endl;
    return 0;
 }
-
-

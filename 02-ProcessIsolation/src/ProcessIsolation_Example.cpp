@@ -1,6 +1,6 @@
 /*Berhane Tsegay
 Cybersecurity
-Modularity Good Example
+ProcessIsolation good Example
 */
 #include <iostream>
 #include <conio.h>
@@ -39,3 +39,4 @@ void display(float c)
 {
    cout << "The Temperature in Celsius is: " << c << endl;
 }
+
