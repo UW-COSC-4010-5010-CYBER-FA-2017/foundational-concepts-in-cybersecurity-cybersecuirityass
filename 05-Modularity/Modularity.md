@@ -4,3 +4,11 @@ In this good modularity example the process of converting from fahrenheit to cel
 
 # Modularity_Non Example:
 This is bad example of modularity because the entire conversion program is written inside the main program. Which is not good. Modifying this will completely affect the entire program.
+
+
+
+
+
+
+
+![modularity](https://user-images.githubusercontent.com/31521112/32199712-612bb768-bd93-11e7-8508-7ecb77b76e03.gif)
