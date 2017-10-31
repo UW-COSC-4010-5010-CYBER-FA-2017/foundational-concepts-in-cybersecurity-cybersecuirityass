@@ -1,6 +1,6 @@
 
-
-## DataHiding_NonExample:
+Prevent people from being able to see private information.Users should see the necessary data only, don't disclose all the data to the world.
+## DataHiding_Example:
 
     This is a good example of data hiding because some of the information are unavailable to the other classes.
     In this example the function transfer money is set to private which is inaccessible from the outside world. 
