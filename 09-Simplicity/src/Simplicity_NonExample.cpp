@@ -29,7 +29,7 @@ check:
    // Get the result using taylor series
    logx = ComputelogXcomplex(x, precision);
    cout << "\n(Complex) The value of ln(" << x << ") using tayler series of order "<< precision<< " is: "<< logx <<endl;
-  lnx = ComputelogXcomplex(x, precision);
+  lnx = ComputelogXsimpler(x, precision);
    cout << "(Simpler) The value of ln(" << x << ") using tayler series of order "<< precision<< " is: "<< lnx <<endl;
 }
 else {
