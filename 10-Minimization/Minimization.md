@@ -15,7 +15,7 @@
 
 
 
-![minimization](https://user-images.githubusercontent.com/31521112/32200044-33f5ac16-bd95-11e7-96ee-c054bf99071e.JPG)
+![minimization](https://user-images.githubusercontent.com/31521112/32209401-bbc058e8-bdcd-11e7-881f-9acff53d2e4a.JPG)
 
 
 source: 
