@@ -40,7 +40,7 @@ void display(float c)
 }
 
 ### ProcessIsolation_NonExample:
-
+In this bad example. The entire process is done in the main function. 
 float f;
 
 float c;
@@ -53,7 +53,9 @@ c = (f-32.0)*(5.0/9.0);
 
 cout << "The Temperature in Celsius is: " << c << endl;
 
+### Picture Description:
 
+In the image below, each application or container is isolated from the other. It is good practice to isolate processes from each other to minimize exploitation. 
 
 
 ![processisolation](https://user-images.githubusercontent.com/31521112/32200338-bd90d166-bd96-11e7-891d-7085e299bcfa.png)
