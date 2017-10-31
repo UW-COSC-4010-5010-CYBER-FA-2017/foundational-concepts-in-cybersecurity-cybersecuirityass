@@ -18,7 +18,8 @@ The same operation was performed using different appraoch called the Tayler seri
 
 
 
-
+### Picture Description:
+The Picture represents the difference between distance and displacemet. Which is similar to complex and simple program.
 
 
 ![simplicity](https://user-images.githubusercontent.com/31521112/32199962-befeca50-bd94-11e7-8143-8bf0d733de54.PNG)
